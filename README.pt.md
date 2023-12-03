@@ -25,6 +25,8 @@
 
 O Clipper é um aplicativo leve e fácil de usar que permite gravar e gerenciar facilmente o histórico da área de transferência. Nunca mais perca trechos importantes de texto - o Clipper mantém um histórico detalhado das atividades da área de transferência, facilitando o acesso e a reutilização do conteúdo copiado.
 
+<img src="Pictures\SocialPreview.png">
+
 ## Recursos
 
 - **Histórico da Área de Transferência:** O Clipper captura e armazena automaticamente um histórico de itens copiados para a área de transferência.

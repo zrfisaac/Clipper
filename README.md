@@ -25,6 +25,8 @@
 
 Clipper is a lightweight and user-friendly application that allows you to easily record and manage your clipboard history. Never lose important snippets of text again – Clipper keeps a detailed history of your clipboard activity, making it simple to access and reuse copied content.
 
+<img src="Pictures\SocialPreview.png">
+
 ## Features
 
 - **Clipboard History:** Clipper automatically captures and stores a history of items copied to your clipboard.
