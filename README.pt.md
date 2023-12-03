@@ -8,21 +8,20 @@
 [//]: # (# [ markdown ])
 
 [//]: # (# - language)
-[![](https://img.shields.io/badge/english--4d65b4?style=for-the-badge)]([README.pt-BR.md](README.en.md))
-[![](https://img.shields.io/badge/português--f9c22b?style=for-the-badge)]([README.pt-BR.md](README.en.md))
-
-<!--[![](https://img.shields.io/badge/english--4d65b4?style=for-the-badge)]([README.pt-BR.md](README.en.md))-->
-<!--[![](https://img.shields.io/badge/español--fb6b1d?style=for-the-badge)]([README.pt-BR.md](README.en.md))-->
-<!--[![](https://img.shields.io/badge/français--8fd3ff?style=for-the-badge)]([README.pt-BR.md](README.en.md))-->
-<!--[![](https://img.shields.io/badge/italiano--239063?style=for-the-badge)]([README.pt-BR.md](README.en.md))-->
-<!--[![](https://img.shields.io/badge/português--f9c22b?style=for-the-badge)]([README.pt-BR.md](README.en.md))-->
-<!--[![](https://img.shields.io/badge/日本語--905ea9?style=for-the-badge)]([README.pt-BR.md](README.en.md))-->
+[![](https://img.shields.io/badge/english--4d65b4?style=for-the-badge)](README.en.md)
+[![](https://img.shields.io/badge/português--f9c22b?style=for-the-badge)](README.pt.md)
+<!--[![](https://img.shields.io/badge/english--4d65b4?style=for-the-badge)](README.en.md)-->
+<!--[![](https://img.shields.io/badge/español--fb6b1d?style=for-the-badge)](README.en.md)-->
+<!--[![](https://img.shields.io/badge/français--8fd3ff?style=for-the-badge)](README.en.md)-->
+<!--[![](https://img.shields.io/badge/italiano--239063?style=for-the-badge)](README.en.md)-->
+<!--[![](https://img.shields.io/badge/português--f9c22b?style=for-the-badge)](README.en.md)-->
+<!--[![](https://img.shields.io/badge/日本語--905ea9?style=for-the-badge)](README.en.md)-->
 
 [//]: # (# - title)
 
-# <img src="Clipper.ico" alt="Logo" width="32" height="32"> Clipper - Clipboard History Recorder [![](https://img.shields.io/badge/release-0.0.0.1-blue?style=flat-square&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20230925/BDE.5.2.0.2.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
+# <img src="Clipper.ico" alt="Logo" width="32" height="32"> Clipper [![](https://img.shields.io/badge/release-0.0.0.1-blue?style=flat-square&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20230925/BDE.5.2.0.2.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
 
-[![](https://img.shields.io/badge/-DOWNLOAD-239063?style=for-the-badge&logo=windows95&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20230925/BDE.5.2.0.2.exe)
+[![](https://img.shields.io/badge/-DOWNLOAD-239063?style=for-the-badge&logo=windows95&logoColor=white)](https://github.com/zrfisaac/Clipper/releases/download/v0.0.0.1/Clipper.0.0.0.1.exe)
 
 Clipper is a lightweight and user-friendly application that allows you to easily record and manage your clipboard history. Never lose important snippets of text again – Clipper keeps a detailed history of your clipboard activity, making it simple to access and reuse copied content.
 
@@ -38,7 +37,7 @@ Clipper is a lightweight and user-friendly application that allows you to easily
 
 Para começar com o Clipper, siga estas etapas simples:
 
-1. Faça o download da última versão do Clipper na [página de Releases](https://github.com/your-username/clipper/releases).
+1. Faça o download da última versão do Clipper na [página de Releases](https://github.com/zrfisaac/Clipper/releases).
 2. Instale o Clipper em seu sistema seguindo as instruções na tela.
 
 ## Uso
