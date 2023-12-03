@@ -19,11 +19,11 @@
 
 [//]: # (# - title)
 
-# <img src="Clipper.ico" alt="Logo" width="32" height="32"> Clipper [![](https://img.shields.io/badge/release-0.0.0.1-blue?style=flat-square&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20230925/BDE.5.2.0.2.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
+# <img src="Clipper.ico" alt="Logo" width="32" height="32"> Clipper [![](https://img.shields.io/badge/release-0.0.0.2-blue?style=flat-square&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20230925/BDE.5.2.0.2.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
 
-[![](https://img.shields.io/badge/-DOWNLOAD-239063?style=for-the-badge&logo=windows95&logoColor=white)](https://github.com/zrfisaac/Clipper/releases/download/v0.0.0.1/Clipper.0.0.0.1.exe)
+[![](https://img.shields.io/badge/-DOWNLOAD-239063?style=for-the-badge&logo=windows95&logoColor=white)](https://github.com/zrfisaac/Clipper/releases/download/v0.0.0.2/Clipper.0.0.0.2.exe)
 
-Clipper is a lightweight and user-friendly application that allows you to easily record and manage your clipboard history. Never lose important snippets of text again – Clipper keeps a detailed history of your clipboard activity, making it simple to access and reuse copied content.
+O Clipper é um aplicativo leve e fácil de usar que permite gravar e gerenciar facilmente o histórico da área de transferência. Nunca mais perca trechos importantes de texto - o Clipper mantém um histórico detalhado das atividades da área de transferência, facilitando o acesso e a reutilização do conteúdo copiado.
 
 ## Recursos
 

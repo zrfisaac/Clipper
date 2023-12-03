@@ -16,8 +16,8 @@
 !define APP_GUID "{F19EF532-E6D4-4085-8E9A-57120A4B0EF1}"
 
 ; # - Main
-Name "Clipper 0.0.0.1"
-OutFile "Clipper 0.0.0.1.exe"
+Name "Clipper 0.0.0.2"
+OutFile "Clipper 0.0.0.2.exe"
 Unicode True
 InstallDir "$PROGRAMFILES\Clipper"
 InstallDirRegKey HKLM "SOFTWARE\Clipper" ""
@@ -63,15 +63,15 @@ Function .onInit
 FunctionEnd
 
 ; # - Version
-VIProductVersion "0.0.0.1"
+VIProductVersion "0.0.0.2"
 VIAddVersionKey "ProductName" "Clipper"
 VIAddVersionKey "Comments" ""
 VIAddVersionKey "CompanyName" "Isaac Santana / zrfisaac@gmail.com"
 VIAddVersionKey "LegalTrademarks" "Isaac Santana / zrfisaac@gmail.com"
 VIAddVersionKey "LegalCopyright" "Isaac Santana / zrfisaac@gmail.com"
 VIAddVersionKey "FileDescription" "Clipper"
-VIAddVersionKey "FileVersion" "0.0.0.1"
-VIAddVersionKey "ProductVersion" "0.0.0.1"
+VIAddVersionKey "FileVersion" "0.0.0.2"
+VIAddVersionKey "ProductVersion" "0.0.0.2"
 
 ; # - Translation
 LangString MUI_Shortcut ${LANG_PORTUGUESEBR} "Criar atalho na área de trabalho"
@@ -94,17 +94,17 @@ Section Clipper
 	CreateShortCut "$SMPROGRAMS\Clipper.lnk" "$INSTDIR\Clipper.exe" "" "$INSTDIR\Clipper.ico"
 
 	; # : - Control Panel
-	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "DisplayName" "Clipper 0.0.0.1"
+	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "DisplayName" "Clipper 0.0.0.2"
 	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "UninstallString" "$\"$INSTDIR\Uninstall.exe$\""
 	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "QuietUninstallString" "$\"$INSTDIR\Uninstall.exe$\" /S"
 	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "InstallLocation" "$\"$INSTDIR$\""
 	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "DisplayIcon" "$\"$INSTDIR\Clipper.ico$\""
 	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "Publisher" "Isaac Santana / zrfisaac@gmail.com"
-	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "DisplayVersion" "0.0.0.1"
+	WriteRegStr HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "DisplayVersion" "0.0.0.2"
 	WriteRegDWORD HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "VersionMajor" 0
 	WriteRegDWORD HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "VersionMinor" 0
 	WriteRegDWORD HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "NoModify" 0
-	WriteRegDWORD HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "NoRepair" 1
+	WriteRegDWORD HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "NoRepair" 2
 	WriteRegDWORD HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${APP_GUID}" "EstimatedSize" 488 ;KB
 SectionEnd
 
